@@ -1,6 +1,6 @@
 # figment
 
-Figment can find file duplicates/file with same signatures
+Figment can detect duplicates files by comparing their signatures and metadata.
 
 ## Features 
 
