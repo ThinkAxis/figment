@@ -3,6 +3,11 @@
 Figment can detect duplicates files by comparing their signatures and metadata.
 
 ## Features 
+- Replicating directories : If you need to sync two folders and their contents
+- Finding duplicates : Find duplicates of a file in a drive
+- 
+
+## Tasks
 
 1. Creating file hashes for files in a directory
 2. Creating a metadata table of the files in the directory
